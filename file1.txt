@@ -3,4 +3,4 @@ commited in master
 added more line
 
 
-local change master
+local change master and local
